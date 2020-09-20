@@ -1,6 +1,9 @@
 # Introduction
 This is my first ASP.NET Core web application build with Razor Pages. The purpose of it is to allow me to practice working with an API. A friend of mine insisted that I use a Chuck Norris API, so I did.
 
+# Live Link
+http://joke-fetcher.azurewebsites.net
+
 # Core Functionality
 - User can search for jokes containing keywords.
 - User can request a new random joke.
